@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#! python3
 # Quick_map.py - Quickest way to serach an address on Google Maps. Easy as copying the desired address and then running 
 # the quick_map.py app.
 
