@@ -15,6 +15,6 @@ else:
     address = pyperclip.paste()
     
 # Use address copied to clipboard or entered via CLI in Google Maps URL
-webbrowser.open('https://www.google.com/maps/places/' + address)
+webbrowser.open('https://www.google.com/maps/place/' + address)
 
     
