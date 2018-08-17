@@ -235,14 +235,14 @@ Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrp
 1534466707451	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://www.weather.gov/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.weather.gov
-1534466746123	geckodriver	INFO	geckodriver 0.21.0
-1534466746134	geckodriver	INFO	Listening on 127.0.0.1:64948
-1534466749182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lpeau\\AppData\\Local\\Temp\\rust_mozprofile.dXFTi2yORdqS"
-Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
-Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
-Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
-Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
-Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15712, Chrome_ChildThread] W[Child 15668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15668, Chrome_ChildThr[Parent 7356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16544, [GPU 155
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+sers\lpeau\AppData\Local\openvr\openvrpaths.vrpath
 1534466752530	Marionette	INFO	Listening on port 64960
 1534466753040	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://www.weather.gov/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
@@ -287,14 +287,14 @@ Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrp
 1534467388744	Marionette	INFO	Listening on port 49565
 1534467389438	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://www.weather.gov/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
-1534467432995	geckodriver	INFO	geckodriver 0.21.0
-1534467433006	geckodriver	INFO	Listening on 127.0.0.1:49680
-1534467436059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lpeau\\AppData\\Local\\Temp\\rust_mozprofile.bFt38VCy7S1a"
-Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
-Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
-Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
-Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
-Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15680, Chrome_ChildThread] W[Parent 16728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8480, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+o read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
 1534467439506	Marionette	INFO	Listening on port 49692
 1534467439943	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://www.weather.gov/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
@@ -316,3 +316,53 @@ Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrp
 1534467473170	Marionette	INFO	Listening on port 49792
 1534467473591	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://www.weather.gov/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 3756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channe[Parent 3756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8108, Chr[Parent 3756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11356, Ch[GPU 16516, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534481011657	geckodriver	INFO	geckodriver 0.21.0
+1534481011667	geckodriver	INFO	Listening on 127.0.0.1:52196
+1534481014752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lpeau\\AppData\\Local\\Temp\\rust_mozprofile.R09y4WQTC3KI"
+Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
+1534481018819	Marionette	INFO	Listening on port 52211
+1534481019392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.weather.gov/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 14684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17376, Chrome_ChildThread] WARN*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 157
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534481074987	geckodriver	INFO	geckodriver 0.21.0
+1534481074998	geckodriver	INFO	Listening on 127.0.0.1:52347
+1534481078062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lpeau\\AppData\\Local\\Temp\\rust_mozprofile.J0AN8Ri9rQud"
+Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lpeau\AppData\Local\openvr\openvrpaths.vrpath
+1534481081577	Marionette	INFO	Listening on port 52359
+1534481082387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.weather.gov/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.weather.gov/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.weather.gov
+[Parent 17172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6760[Parent 17172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16508, Chrome_ChildThr[GPU 16704, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
