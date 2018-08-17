@@ -20,7 +20,7 @@ linkElem = browser.find_element_by_id('inputstring')
 
 # Clear existing text in search bar, insert inputted location and navigate to location site
 linkElem.clear()
-linkElem.send_keys(city.title() + ', ' + state.upper() + ', ' +country.upper()).click()
-#linkElem.send_keys(Keys.ENTER)
-buttonElem = browser.find_element_by_id('btnSearch').click()
-#buttonElem.send_keys(Keys.ENTER)
+linkElem.send_keys(city.title() + ', ' + state.upper() + ', ' +country.upper(), Keys.ENTER)
+#linkElem.submit()
+#buttonElem = browser.find_element_by_name('getForecast')
+#buttonElem.submit()
