@@ -366,3 +366,229 @@ console.warn: LoginRecipes: getRecipes: falling back to a synchronous message fo
 [Child 16508, Chrome_ChildThr[GPU 16704, Chrom
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1540352407919	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0j/2j9n3m4n6gj0dj6bky7_k5780000gp/T/rust_mozprofile.HkuqrDDrMuyF"
+2018-10-23 20:40:11.716 plugin-container[76111:9118363] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 20:40:12.051 plugin-container[76112:9118392] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 20:40:12.173 plugin-container[76112:9118392] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10f0ef8e0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 20:40:12.176 plugin-container[76112:9118408] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 20:40:12.178 plugin-container[76111:9118363] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1083219a0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 20:40:12.181 plugin-container[76111:9118374] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 20:40:12.673 plugin-container[76113:9118474] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x703b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1540352412719	Marionette	INFO	Listening on port 58862
+1540352412804	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-10-23 20:40:12.815 plugin-container[76113:9118474] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10d1ef700 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 20:40:12.818 plugin-container[76113:9118475] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540352412850	Marionette	DEBUG	[4294967297] Frame script loaded
+1540352412881	Marionette	DEBUG	[4294967297] Frame script registered
+1540352412903	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1540352413874	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1540352415814	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://weather.com/
+1540352416365	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967301
+1540352416600	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://weather.com/
+1540357451107	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0j/2j9n3m4n6gj0dj6bky7_k5780000gp/T/rust_mozprofile.tL7BCZvK3him"
+2018-10-23 22:04:14.035 plugin-container[77480:9200966] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 22:04:14.286 plugin-container[77481:9200992] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 22:04:14.322 plugin-container[77480:9200966] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10be7ff10 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 22:04:14.326 plugin-container[77480:9200977] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 22:04:14.533 plugin-container[77481:9200992] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10d8ef940 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 22:04:14.538 plugin-container[77481:9200997] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540357454692	Marionette	INFO	Listening on port 56738
+1540357454725	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540357454784	Marionette	DEBUG	[4294967297] Frame script loaded
+1540357454789	Marionette	DEBUG	[4294967297] Frame script registered
+1540357454805	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1540357454952	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-23 22:04:15.331 plugin-container[77484:9201165] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 22:04:15.523 plugin-container[77484:9201165] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1026f2700 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 22:04:15.529 plugin-container[77484:9201174] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540357455724	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.theweathernetwork.com/us/weather/nevada/reno
+1540357456297	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.theweathernetwork.com/us/weather/nevada/reno
+1540357456385	Marionette	INFO	Stopped listening on port 56738
+JavaScript error: https://s1.twnmm.com/js/en_us/r1377/require-2.3.5.js, line 1: Error: Script error for "web/mediators/common-page-nitro"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s1.twnmm.com/js/en_us/r1377/require-2.3.5.js, line 1: Error: Script error for "web/modules/adapters/localization-copy-en", needed by: web/modules/dfpad/get_dfp_lowerBox, web/modules/forecast/sevenday_nitro
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s1.twnmm.com/js/en_us/r1377/require-2.3.5.js, line 1: Error: Script error for "web/modules/forecast/obs_nitro"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s1.twnmm.com/js/en_us/r1377/require-2.3.5.js, line 1: Error: Script error for "util/package", needed by: web/modules/forecast/sevenday_nitro
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s1.twnmm.com/js/en_us/r1377/require-2.3.5.js, line 1: Error: Script error for "jquery", needed by: web/modules/dfpad/get_dfp_lowerBox, web/modules/videos/getplaylist, web/modules/forecast/sevenday_nitro, web/modules/news_slider_nitro, carousels_light
+http://requirejs.org/docs/errors.html#scripterror
+1540357483594	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0j/2j9n3m4n6gj0dj6bky7_k5780000gp/T/rust_mozprofile.DlZwnivyAzSy"
+2018-10-23 22:04:45.309 plugin-container[77497:9201922] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 22:04:45.451 plugin-container[77497:9201922] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x106580ee0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 22:04:45.455 plugin-container[77497:9201925] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 22:04:45.487 plugin-container[77498:9201950] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 22:04:45.607 plugin-container[77498:9201950] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x113527f10 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 22:04:45.610 plugin-container[77498:9201953] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540357485724	Marionette	INFO	Listening on port 57133
+1540357485779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540357485840	Marionette	DEBUG	[4294967297] Frame script loaded
+1540357485843	Marionette	DEBUG	[4294967297] Frame script registered
+1540357485886	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1540357486404	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-23 22:04:46.619 plugin-container[77500:9202104] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 22:04:46.874 plugin-container[77500:9202104] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x115cf6700 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 22:04:46.878 plugin-container[77500:9202115] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540357487231	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.theweathernetwork.com/us/page-not-found
+JavaScript warning: https://s1.twnmm.com/js/en_us/r1377/web/mediators/global.js, line 4: unreachable code after return statement
+1540357488801	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967308
+1540357489108	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967313
+1540357493268	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.theweathernetwork.com/us/page-not-found
+JavaScript error: https://s1.twnmm.com/js/en_us/r1377/require.js, line 1: Error: Script error for "web/modules/woahbar"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s1.twnmm.com/js/en_us/r1377/require.js, line 1: Error: Script error for "ui"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s1.twnmm.com/js/en_us/r1377/require.js, line 1: Error: Script error for "jquery-ui"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s1.twnmm.com/js/en_us/r1377/require.js, line 1: Error: Script error for "web/modules/location_search"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+objc[77495]: Class FIFinderSyncExtensionHost is implemented in both /System/Library/PrivateFrameworks/FinderKit.framework/Versions/A/FinderKit (0x7fffab2141d0) and /System/Library/PrivateFrameworks/FileProvider.framework/OverrideBundles/FinderSyncCollaborationFileProviderOverride.bundle/Contents/MacOS/FinderSyncCollaborationFileProviderOverride (0x12fb49dc8). One of the two will be used. Which one is undefined.
+JavaScript error: chrome://pippki/content/certManager.js, line 430: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIX509CertDB.importCertsFromFile]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 301: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+2018-10-23 22:11:33.141 plugin-container[77578:9210436] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 22:11:33.350 plugin-container[77578:9210436] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1091f7700 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 22:11:33.352 plugin-container[77578:9210438] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540357895510	Marionette	INFO	Stopped listening on port 58862
+1540357897336	Marionette	INFO	Stopped listening on port 57133
+1540357971868	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0j/2j9n3m4n6gj0dj6bky7_k5780000gp/T/rust_mozprofile.GrxFHlCiXrKD"
+2018-10-23 22:12:53.552 plugin-container[77607:9212806] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 22:12:53.682 plugin-container[77607:9212806] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x116e4c940 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 22:12:53.685 plugin-container[77607:9212808] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2018-10-23 22:12:53.779 plugin-container[77608:9212834] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 22:12:53.940 plugin-container[77608:9212834] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x11ce29f40 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 22:12:53.943 plugin-container[77608:9212842] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540357974097	Marionette	INFO	Listening on port 62132
+1540357974159	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540357974218	Marionette	DEBUG	[4294967297] Frame script loaded
+1540357974248	Marionette	DEBUG	[4294967297] Frame script registered
+1540357974282	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-23 22:12:54.663 plugin-container[77609:9212946] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-23 22:12:54.784 plugin-container[77609:9212946] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x112de76a0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2018-10-23 22:12:54.787 plugin-container[77609:9212947] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1540357977087	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1540357983455	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.theweathernetwork.com/us/weather/nevada/reno
+1540358043553	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.theweathernetwork.com/us/weather/nevada/reno
+console.error: "Error while calling actor 'pagestyle's method 'getComputed'" "node is null"
+console.error: "getComputed@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:227:5\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1159:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1783:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:735:7\n"
+JavaScript error: https://s1.twnmm.com/js/en_us/r1377/require-2.3.5.js, line 1: Error: Script error for "web/modules/profiled"
+http://requirejs.org/docs/errors.html#scripterror
+console.error: "Protocol error (unknownError): node is null"
+console.error: "TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\n_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7\n"
+TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7
+
+console.error: "TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:64:11\nonMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7\n"
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:64:11
+onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7
+
+1540358071105	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0j/2j9n3m4n6gj0dj6bky7_k5780000gp/T/rust_mozprofile.0dA8MNSS3Vky"
+1540358082446	Marionette	INFO	Listening on port 63153
+1540358097859	Marionette	INFO	Stopped listening on port 62132
+1540358104477	Marionette	INFO	Stopped listening on port 63153
+1540358114792	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0j/2j9n3m4n6gj0dj6bky7_k5780000gp/T/rust_mozprofile.3kxa9owVwQKj"
+1540358119236	Marionette	INFO	Listening on port 63398
+1540358119376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.theweathernetwork.com/us/weather/nevada/reno, line 321: TypeError: window.pelm.track.promo_view_gap is not a function
+JavaScript error: https://www.theweathernetwork.com/us/weather/nevada/reno, line 321: TypeError: window.pelm.track.promo_view_gap is not a function
+JavaScript error: https://www.theweathernetwork.com/us/weather/nevada/reno, line 311: TypeError: window.pelm.track.promo_view is not a function
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1540358155835	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0j/2j9n3m4n6gj0dj6bky7_k5780000gp/T/rust_mozprofile.MNJQEs2f4giO"
+1540358158408	Marionette	INFO	Listening on port 64209
+1540358158431	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540358194315	Marionette	INFO	Stopped listening on port 64209
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

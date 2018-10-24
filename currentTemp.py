@@ -3,13 +3,17 @@
 
 import webbrowser, requests, sys, bs4
 
+print("Enter city: ")
+city = input()
+print("Enter State: ")
+state = input()
+
 # Download url
-print("Retrieving Current Temperature...")
-res = requests.get("https://forecast.weather.gov/MapClick.php?lat=40.380220000000065&lon=-111.98801999999995#.W3J2bNJKibg")
+res = requests.get("https://www.theweathernetwork.com/us/weather/" + state + "/" + city)
 res.raise_for_status()
 
 # Convert into BeautifulSoup object
-soup = bs4.BeautifulSoup(res.text, "html.parser")
-tempElem = soup.select('#current_conditions-summary p')
-print(tempElem[1].getText())
+soup = bs4.BeautifulSoup(res.text,'html.parser')
+tempElem = soup.select('span.temp')
+print(tempElem[0].getText())
 

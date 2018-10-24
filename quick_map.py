@@ -9,7 +9,7 @@ import webbrowser, sys, pyperclip
 # Add a commandline option to input an address
 if len(sys.argv) > 1:
     # Join sys.argv arguments into a single string
-    address = ''.join(sys.argv[1:])
+    address = '-'.join(sys.argv[1:])
 else:
     # Use address in clipboard.
     address = pyperclip.paste()
